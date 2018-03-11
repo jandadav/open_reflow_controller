@@ -3,7 +3,7 @@
 // (c) 2014 Karl Pitrich <karl@pitrich.com>
 // (c) 2014 true <trueamx@gmail.com>
 // (c) 2012-2013 Ed Simmons
-// PLEA  
+// 2018-? a horrid effort to make this work. David Janda
 // ----------------------------------------------------------------------------
 
 // --CONFIGURATION-------------------------------------------------------------
